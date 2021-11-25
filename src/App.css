@@ -1,0 +1,20 @@
+.ListItemStyling {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  max-height: 30px;
+}
+
+.ListText {
+  margin-left: 8px;
+  cursor: pointer;
+  color: red;
+}
+
+.ListText:hover {
+  text-decoration: line-through;
+}
+
+.FormStyling {
+  margin-top: 10px;
+}
